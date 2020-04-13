@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article>
+  {{ .Content }}
+</article>
+{{- end }}
+{{- define "back" }}
+<nav aria-label="Change to home page or jump to top">
+  <ul>
+    <li><a href="/">↶ back to home page</a></li>
+    <li><a href="#oben">to top ↑</a></li>
+  </ul>
+</nav>
+{{- end }}

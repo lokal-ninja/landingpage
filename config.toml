@@ -1,0 +1,13 @@
+baseURL = "https://shoogle.us"
+languageCode = "en-US"
+title = "your place"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
