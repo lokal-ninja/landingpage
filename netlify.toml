@@ -11,22 +11,22 @@
   from = "/"
   to = "https://at.shoogle.net"
   status = 302
-  conditions = {Country = ["at"]}
+  conditions = {Country = ["AT"]}
 
 [[redirects]]
   from = "/"
   to = "https://ch.shoogle.net"
   status = 302
-  conditions = {Country = ["ch"]}
+  conditions = {Country = ["CH"]}
 
 [[redirects]]
   from = "/"
   to = "https://de.shoogle.net"
   status = 302
-  conditions = {Country = ["de"]}
+  conditions = {Country = ["DE"]}
 
 [[redirects]]
   from = "/"
   to = "https://us.shoogle.net"
   status = 302
-  conditions = {Country = ["us"]}
+  conditions = {Country = ["US"]}
