@@ -16,7 +16,7 @@ Deutschland
 
 E-Mailadresse: {{< email >}}
 
-Link zum Impressum: https://shoogle.us/legal/
+Link zum Impressum: https://shoogle.net/legal/
 
 ## Arten der verarbeiteten Daten:
 

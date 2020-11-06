@@ -1,5 +1,5 @@
-baseURL = "https://shoogle.us"
-languageCode = "en-US"
+baseURL = "https://shoogle.net"
+languageCode = "en"
 title = "your place"
 theme = "ln-base"
 
