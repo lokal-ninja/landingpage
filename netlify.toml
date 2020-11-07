@@ -10,23 +10,27 @@
 [[redirects]]
   from = "/"
   to = "https://at.shoogle.net"
-  status = 302
-  conditions = {Country = ["AT"]}
+  status = 301
+  force = false
+  conditions = {Country = ["at"]}
 
 [[redirects]]
   from = "/"
   to = "https://ch.shoogle.net"
-  status = 302
-  conditions = {Country = ["CH"]}
+  status = 301
+  force = false
+  conditions = {Country = ["ch"]}
 
 [[redirects]]
   from = "/"
   to = "https://de.shoogle.net"
-  status = 302
-  conditions = {Country = ["DE"]}
+  status = 301
+  force = false
+  conditions = {Country = ["de"]}
 
 [[redirects]]
   from = "/"
   to = "https://us.shoogle.net"
-  status = 302
-  conditions = {Country = ["US"]}
+  status = 301
+  force = false
+  conditions = {Country = ["us"]}
