@@ -11,26 +11,26 @@
   from = "/"
   to = "https://at.shoogle.net"
   status = 301
-  force = false
+  force = true
   conditions = {Country = ["at"]}
 
 [[redirects]]
   from = "/"
   to = "https://ch.shoogle.net"
   status = 301
-  force = false
+  force = true
   conditions = {Country = ["ch"]}
 
 [[redirects]]
   from = "/"
   to = "https://de.shoogle.net"
   status = 301
-  force = false
+  force = true
   conditions = {Country = ["de"]}
 
 [[redirects]]
   from = "/"
   to = "https://us.shoogle.net"
   status = 301
-  force = false
+  force = true
   conditions = {Country = ["us"]}
