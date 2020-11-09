@@ -72,6 +72,20 @@
 
 [[redirects]]
   from = "/"
+  to = "https://ph.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["ph"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://pk.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["pk"]}
+
+[[redirects]]
+  from = "/"
   to = "https://us.shoogle.net"
   status = 301
   force = true
