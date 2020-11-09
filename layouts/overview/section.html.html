@@ -23,7 +23,7 @@ const world = document.getElementById("world");
 world.addEventListener('load', function() {
   const doc = world.getSVGDocument();
   const svgCountries = doc.querySelectorAll('[cc]');
-  const countries = ['at', 'au', 'ca', 'ch', 'de', 'gb', 'nz', 'us'];
+  const countries = ['at', 'au', 'ca', 'ch', 'de', 'gb', 'ie', 'in', 'nz', 'us'];
   svgCountries.forEach(function(country) {
     const cc = country.getAttribute('cc');
     if (countries.indexOf(cc) !== -1) {
@@ -40,6 +40,10 @@ world.addEventListener('load', function() {
   });
 });
 </script>
+<h3>Asia</h3>
+<ul class="columns">
+  <li><a href="https://in.shoogle.net">India</a></li>
+</ul>
 <h3>Australia and Oceania</h3>
 <ul class="columns">
   <li><a href="https://au.shoogle.net">Australia</a></li>
@@ -49,8 +53,9 @@ world.addEventListener('load', function() {
 <ul class="columns">
   <li><a href="https://at.shoogle.net">Austria</a></li>
   <li><a href="https://de.shoogle.net">Germany</a></li>
-  <li><a href="https://ch.shoogle.net">Switzerland</a></li>
   <li><a href="https://gb.shoogle.net">Great Britain</a></li>
+  <li><a href="https://ie.shoogle.net">Ireland and Northern Ireland</a></li>
+  <li><a href="https://ch.shoogle.net">Switzerland</a></li>
 </ul>
 <h3>North America</h3>
 <ul class="columns">
