@@ -5,19 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Params.site }}{{ end }}</title>
     {{- $description := printf "Discover all shopping facilities in %s" .Site.Title }}
-    {{- if eq .Kind "section" }}
-      {{- $description = printf "Discover all shopping facilities in %s" .Title }}
-    {{- else if .IsPage }}
-      {{- $dirs := split .File.Dir "/" }}
-      {{- $main := index $dirs 0 }}
-      {{- $city := index $dirs 1 }}
-      {{- $entry := index .Site.Data $main $city .File.BaseFileName }}
-      {{- $name := $entry.city }}
-      {{- $opening_hours := "" }}{{ if $entry.opening_hours }}{{ $opening_hours = ", opening hours" }}{{ end }}
-      {{- $phone := "" }}{{ if $entry.phone }}{{ $phone = ", phone number" }}{{ end }}
-      {{- $website := "" }}{{ if $entry.website }}{{ $website = " and link to website" }}{{ end }}
-      {{- $description = printf "Address%s%s%s of %s in %s" $opening_hours $phone $website .Title $name }}
-    {{- end }}
     <meta name="description" content="{{ $description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
