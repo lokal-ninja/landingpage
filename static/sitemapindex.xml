@@ -5,8 +5,36 @@
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://bf.shoogle.net/burkina-faso/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://bj.shoogle.net/benin/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://cd.shoogle.net/congo-democratic-republic/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://cg.shoogle.net/congo-brazzaville/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ci.shoogle.net/ivory-coast/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ga.shoogle.net/gabon/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://gh.shoogle.net/ghana/sitemap.xml</loc>
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://gn.shoogle.net/guinea/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://ke.shoogle.net/kenya/sitemap.xml</loc>
@@ -17,12 +45,28 @@
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://ml.shoogle.net/mali/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ne.shoogle.net/niger/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://ng.shoogle.net/nigeria/sitemap.xml</loc>
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://sl.shoogle.net/sierra-leone/sitemap.xml</loc>
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://sn.shoogle.net/senegal-and-gambia/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tg.shoogle.net/togo/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://za.shoogle.net/south-africa/sitemap.xml</loc>
@@ -50,6 +94,10 @@
   </sitemap>
   <sitemap>
     <loc>https://at.shoogle.net/austria/sitemap.xml</loc>
+    <lastmod>2020-12-29T15:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ch.shoogle.net/switzerland/sitemap.xml</loc>
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
@@ -113,6 +161,114 @@
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://fr.shoogle.net/alsace/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/aquitaine/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/auvergne/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/basse-normandie/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/bourgogne/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/bretagne/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/centre/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/champagne-ardenne/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/corse/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/franche-comte/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/guadeloupe/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/guyane/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/haute-normandie/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/ile-de-france/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/languedoc-roussillon/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/limousin/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/lorraine/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/martinique/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/mayotte/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/midi-pyrenees/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/nord-pas-de-calais/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/pays-de-la-loire/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/picardie/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/poitou-charentes/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/provence-alpes-cote-d-azur/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/reunion/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://fr.shoogle.net/rhone-alpes/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://gb.shoogle.net/england/sitemap.xml</loc>
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
@@ -129,8 +285,8 @@
     <lastmod>2020-12-29T15:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://ch.shoogle.net/switzerland/sitemap.xml</loc>
-    <lastmod>2020-12-29T15:00:00+01:00</lastmod>
+    <loc>https://mc.shoogle.net/monaco/sitemap.xml</loc>
+    <lastmod>2021-03-27T23:00:00+01:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://ca.shoogle.net/alberta/sitemap.xml</loc>
