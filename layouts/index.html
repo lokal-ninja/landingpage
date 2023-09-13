@@ -23,7 +23,7 @@ const world = document.getElementById("world");
 world.addEventListener('load', function() {
   const doc = world.getSVGDocument();
   const svgCountries = doc.querySelectorAll('[cc]');
-  const countries = ['ar', 'at', 'au', 'bf', 'bj', 'bo', 'ca', 'cd', 'cg', 'ch', 'ci', 'cl', 'co', 'cr', 'cu', 'de', 'do', 'ec', 'fr', 'ga', 'gb', 'gh', 'gn', 'gt', 'hn', 'ie', 'in', 'ke', 'lr', 'ml', 'mx', 'ne', 'ni', 'ng', 'nz', 'pa', 'pe', 'ph', 'pk', 'py', 'sl', 'sn', 'sv', 'tg', 'us', 'uy', 've', 'za'];
+  const countries = ['ar', 'at', 'au', 'bf', 'bj', 'bo', 'ca', 'cd', 'cg', 'ch', 'ci', 'cl', 'co', 'cr', 'cu', 'de', 'do', 'ec', 'es', 'fr', 'ga', 'gb', 'gh', 'gn', 'gt', 'hn', 'ie', 'in', 'ke', 'lr', 'ml', 'mx', 'ne', 'ni', 'ng', 'nz', 'pa', 'pe', 'ph', 'pk', 'py', 'sl', 'sn', 'sv', 'tg', 'us', 'uy', 've', 'za'];
   svgCountries.forEach(function(country) {
     const cc = country.getAttribute('cc');
     if (countries.indexOf(cc) !== -1) {
@@ -90,6 +90,7 @@ world.addEventListener('load', function() {
   <li><a href="https://gb.shoogle.net">Great Britain</a></li>
   <li><a href="https://ie.shoogle.net">Ireland and Northern Ireland</a></li>
   <li><a href="https://mc.shoogle.net">Monaco</a></li>
+  <li><a href="https://es.shoogle.net">Spain</a></li>
   <li><a href="https://ch.shoogle.net">Switzerland</a></li>
 </ul>
 <h3>North America</h3>

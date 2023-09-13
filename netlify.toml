@@ -135,6 +135,13 @@
 
 [[redirects]]
   from = "/"
+  to = "https://es.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["es"]}
+
+[[redirects]]
+  from = "/"
   to = "https://fr.shoogle.net"
   status = 301
   force = true
