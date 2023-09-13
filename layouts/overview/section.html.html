@@ -23,7 +23,7 @@ const world = document.getElementById("world");
 world.addEventListener('load', function() {
   const doc = world.getSVGDocument();
   const svgCountries = doc.querySelectorAll('[cc]');
-  const countries = ['at', 'au', 'bf', 'bj', 'ca', 'cd', 'cg', 'ch', 'ci', 'de', 'fr', 'ga', 'gb', 'gh', 'gn', 'ie', 'in', 'ke', 'lr', 'ml', 'ne', 'ng', 'nz', 'ph', 'pk', 'sl', 'sn', 'tg', 'us', 'za'];
+  const countries = ['ar', 'at', 'au', 'bf', 'bj', 'bo', 'ca', 'cd', 'cg', 'ch', 'ci', 'cl', 'co', 'cr', 'cu', 'de', 'do', 'ec', 'fr', 'ga', 'gb', 'gh', 'gn', 'gt', 'hn', 'ie', 'in', 'ke', 'lr', 'ml', 'mx', 'ne', 'ni', 'ng', 'nz', 'pa', 'pe', 'ph', 'pk', 'py', 'sl', 'sn', 'sv', 'tg', 'us', 'uy', 've', 'za'];
   svgCountries.forEach(function(country) {
     const cc = country.getAttribute('cc');
     if (countries.indexOf(cc) !== -1) {
@@ -71,6 +71,17 @@ world.addEventListener('load', function() {
   <li><a href="https://au.shoogle.net">Australia</a></li>
   <li><a href="https://nz.shoogle.net">New Zealand</a></li>
 </ul>
+<h3>Central America</h3>
+<ul class="columns">
+  <li><a href="https://cr.shoogle.net">Costa Rica</a></li>
+  <li><a href="https://cu.shoogle.net">Cuba</a></li>
+  <li><a href="https://sv.shoogle.net">El Salvador</a></li>
+  <li><a href="https://do.shoogle.net">Dominican Republic</a></li>
+  <li><a href="https://hn.shoogle.net">Honduras</a></li>
+  <li><a href="https://gt.shoogle.net">Guatemala</a></li>
+  <li><a href="https://ni.shoogle.net">Nicaragua</a></li>
+  <li><a href="https://pa.shoogle.net">Panama</a></li>
+</ul>
 <h3>Europe</h3>
 <ul class="columns">
   <li><a href="https://at.shoogle.net">Austria</a></li>
@@ -84,6 +95,19 @@ world.addEventListener('load', function() {
 <h3>North America</h3>
 <ul class="columns">
   <li><a href="https://ca.shoogle.net">Canada</a></li>
+  <li><a href="https://mx.shoogle.net">Mexico</a></li>
   <li><a href="https://us.shoogle.net">United States of America</a></li>
+</ul>
+<h3>South America</h3>
+<ul class="columns">
+  <li><a href="https://ar.shoogle.net">Argentina</a></li>
+  <li><a href="https://bo.shoogle.net">Bolivia</a></li>
+  <li><a href="https://cl.shoogle.net">Chile</a></li>
+  <li><a href="https://co.shoogle.net">Colombia</a></li>
+  <li><a href="https://ec.shoogle.net">Ecuador</a></li>
+  <li><a href="https://py.shoogle.net">Paraguay</a></li>
+  <li><a href="https://pe.shoogle.net">Peru</a></li>
+  <li><a href="https://uy.shoogle.net">Uruguay</a></li>
+  <li><a href="https://ve.shoogle.net">Venezuela</a></li>
 </ul>
 {{ end }}

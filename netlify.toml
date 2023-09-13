@@ -9,6 +9,13 @@
 
 [[redirects]]
   from = "/"
+  to = "https://ar.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["ar"]}
+
+[[redirects]]
+  from = "/"
   to = "https://at.shoogle.net"
   status = 301
   force = true
@@ -34,6 +41,13 @@
   status = 301
   force = true
   conditions = {Country = ["bj"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://bo.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["bo"]}
 
 [[redirects]]
   from = "/"
@@ -72,10 +86,52 @@
 
 [[redirects]]
   from = "/"
+  to = "https://cl.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["cl"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://co.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["co"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://cr.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["cr"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://cu.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["cu"]}
+
+[[redirects]]
+  from = "/"
   to = "https://de.shoogle.net"
   status = 301
   force = true
   conditions = {Country = ["de"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://do.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["do"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://ec.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["ec"]}
 
 [[redirects]]
   from = "/"
@@ -111,6 +167,20 @@
   status = 301
   force = true
   conditions = {Country = ["gn"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://gt.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["gt"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://hn.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["hn"]}
 
 [[redirects]]
   from = "/"
@@ -156,10 +226,24 @@
 
 [[redirects]]
   from = "/"
+  to = "https://mx.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["mx"]}
+
+[[redirects]]
+  from = "/"
   to = "https://ne.shoogle.net"
   status = 301
   force = true
   conditions = {Country = ["ne"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://ni.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["ni"]}
 
 [[redirects]]
   from = "/"
@@ -177,6 +261,20 @@
 
 [[redirects]]
   from = "/"
+  to = "https://pa.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["pa"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://pe.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["pe"]}
+
+[[redirects]]
+  from = "/"
   to = "https://ph.shoogle.net"
   status = 301
   force = true
@@ -188,6 +286,13 @@
   status = 301
   force = true
   conditions = {Country = ["pk"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://py.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["py"]}
 
 [[redirects]]
   from = "/"
@@ -205,6 +310,13 @@
 
 [[redirects]]
   from = "/"
+  to = "https://sv.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["sv"]}
+
+[[redirects]]
+  from = "/"
   to = "https://tg.shoogle.net"
   status = 301
   force = true
@@ -216,6 +328,20 @@
   status = 301
   force = true
   conditions = {Country = ["us"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://uy.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["uy"]}
+
+[[redirects]]
+  from = "/"
+  to = "https://ve.shoogle.net"
+  status = 301
+  force = true
+  conditions = {Country = ["ve"]}
 
 [[redirects]]
   from = "/"
